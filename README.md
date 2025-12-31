@@ -73,6 +73,3 @@ By exploring this project, you’ll learn:
 
 Feel free to use and adapt this project for your own learning or research!
 
-```
-
----
