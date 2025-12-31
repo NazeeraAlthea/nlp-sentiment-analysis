@@ -26,7 +26,6 @@ Typical workflow:
    ```bash
    git clone https://github.com/NazeeraAlthea/nlp-sentiment-analysis.git
    cd nlp-sentiment-analysis
-````
 
 2. (Optional) Create a virtual environment:
 
