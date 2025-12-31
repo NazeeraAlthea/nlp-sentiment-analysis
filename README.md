@@ -76,17 +76,3 @@ Feel free to use and adapt this project for your own learning or research!
 ```
 
 ---
-
-### 💾 Quick Download Tip
-
-To add this to your repo:
-
-1. In your GitHub repo, click **Add file → Create new file**
-2. Name it: `README.md`
-3. Paste the content above
-4. Commit the changes
-
----
-
-If you want, I can also help you **customize this README with your actual model details** (e.g., dataset used, exact model accuracy, how preprocessing works), just tell me what’s inside your notebooks 👍
-::contentReference[oaicite:2]{index=2}
